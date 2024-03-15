@@ -17,6 +17,8 @@ The `boys` data from the [`mice`](https://github.com/amices/mice){.pkg} package 
 
 The following table shows the first 6 rows of the `boys` data.
 
+Grappig textje
+
 :::: {.columns}
 ::: {.column width="60%"}
 ```{r headboys}
